@@ -1,0 +1,953 @@
+town,lat,lon,nearest_airport,distance_km,category
+Pretoria,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Atteridgeville,-25.7728,28.0678,O.R. Tambo International,44.0,major
+Glenstantia,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Centurion,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Doornpoort,-25.6333,28.2667,O.R. Tambo International,56.0,regional
+Eersterus,-25.7236,28.3194,O.R. Tambo International,46.6,major
+Philip Nel Park,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Derdepoortpark,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Laudium,-25.7833,28.1,O.R. Tambo International,41.7,major
+Menlo Park,-25.7711,28.3078,O.R. Tambo International,41.2,major
+Garsfontein,-25.8008,28.2956,O.R. Tambo International,37.7,major
+Faerie Glen,-30.85,30.3333,King Shaka International,156.8,regional
+Moreletapark,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Wapadrand,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Lyttelton,-25.8333,28.2167,O.R. Tambo International,33.8,major
+Pretoria North,-25.6622,28.1653,O.R. Tambo International,53.3,regional
+Hercules,-25.7167,28.1833,O.R. Tambo International,47.1,major
+Pretoria West,-25.75,28.1667,O.R. Tambo International,43.6,major
+Kromdraai,-25.4833,28.2667,O.R. Tambo International,72.7,regional
+Hatfield,-25.7467,28.2231,O.R. Tambo International,43.4,major
+Moot,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Wierdapark,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Mamelodi,-25.7072,28.3472,O.R. Tambo International,48.9,major
+Karenpark,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Pyramid,-25.5814,28.2319,O.R. Tambo International,61.8,regional
+Waterkloof,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Magalieskruin,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Soshanguve,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Wingate Park,-25.8333,28.25,O.R. Tambo International,33.7,major
+Rooihuiskraal,-25.9,28.1,O.R. Tambo International,29.9,major
+Theresapark,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Ninapark,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Highveld,-25.8049,28.2056,O.R. Tambo International,37.1,major
+The Reeds,-25.8049,28.2056,O.R. Tambo International,37.1,major
+Montanapark,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Denneboom,-25.7181,28.3342,O.R. Tambo International,47.5,major
+Silverton,-25.7317,28.3347,O.R. Tambo International,46.0,major
+Pretoria-Noord,-25.6622,28.1653,O.R. Tambo International,53.3,regional
+Rosslyn,-25.6771,28.1867,O.R. Tambo International,51.4,regional
+Boordfontein West,-25.6771,28.1867,O.R. Tambo International,51.4,regional
+Boordfontein-Wes,-25.6771,28.1867,O.R. Tambo International,51.4,regional
+Boordfontein,-25.6771,28.1867,O.R. Tambo International,51.4,regional
+Pretoria-Wes,-25.75,28.1667,O.R. Tambo International,43.6,major
+Valhalla,-25.8117,28.1503,O.R. Tambo International,37.3,major
+Lynn East,-25.7069,28.2294,O.R. Tambo International,47.8,major
+Voortrekkerhoogte,-25.8,28.1167,O.R. Tambo International,39.4,major
+Brits,-25.6333,27.7833,O.R. Tambo International,72.3,regional
+Medunsa,-25.6189,28.0228,O.R. Tambo International,61.6,regional
+Mabopane,-25.5072,28.1075,O.R. Tambo International,71.3,regional
+Mogwase,-25.2667,27.2333,O.R. Tambo International,139.8,regional
+Rustenburg,-25.6667,27.25,O.R. Tambo International,112.1,regional
+Ga-Rankuwa,-25.5883,28.0078,O.R. Tambo International,65.3,regional
+Hartbeespoort,-25.7333,27.85,O.R. Tambo International,59.5,regional
+Letlhabile,-25.6333,27.7833,O.R. Tambo International,72.3,regional
+Marikana,-25.613,27.8843,O.R. Tambo International,68.3,regional
+Rustenberg,-25.613,27.8843,O.R. Tambo International,68.3,regional
+Boitekong,-25.6667,27.25,O.R. Tambo International,112.1,regional
+Saulspoort,-24.9333,27.15,O.R. Tambo International,172.9,regional
+Thabazimbi,-24.6,27.4,O.R. Tambo International,190.6,regional
+Koster,-25.8667,26.9,O.R. Tambo International,137.3,regional
+Swartklip,-24.9333,27.15,O.R. Tambo International,172.9,regional
+Mafikeng,-25.8667,25.65,O.R. Tambo International,260.7,regional
+Chromite,-24.6,27.4,O.R. Tambo International,190.6,regional
+Podiphatshwa,-24.6,27.4,O.R. Tambo International,190.6,regional
+Regorogile,-24.6,27.4,O.R. Tambo International,190.6,regional
+Hammanskraal,-25.4075,28.2856,O.R. Tambo International,81.2,regional
+Rust De Winter,-25.1986,28.6092,O.R. Tambo International,110.6,regional
+Warmbaths,-24.8833,28.2833,O.R. Tambo International,139.4,regional
+Temba,-25.365,28.2189,O.R. Tambo International,85.8,regional
+Mphe-Batho,-25.343,28.2204,O.R. Tambo International,88.3,regional
+Mutlestad,-25.343,28.2204,O.R. Tambo International,88.3,regional
+Rantebeng,-25.365,28.2189,O.R. Tambo International,85.8,regional
+Swartbooistad,-25.2728,28.1683,O.R. Tambo International,96.3,regional
+Thulwe,-25.2167,28.2167,O.R. Tambo International,102.3,regional
+Settlers,-24.95,28.5333,O.R. Tambo International,135.2,regional
+Skilpadfontein,-25.0167,28.8,O.R. Tambo International,136.6,regional
+Bamokgoko,-25.1039,28.5219,O.R. Tambo International,118.2,regional
+Nylstroom,-24.7,28.4,O.R. Tambo International,160.5,regional
+Mbibane,-25.365,28.2189,O.R. Tambo International,85.8,regional
+Marble Hall,-24.9667,29.3,O.R. Tambo International,168.0,regional
+Xipame,-24.9667,29.3,O.R. Tambo International,168.0,regional
+Dibasabophelo,-24.9667,29.3,O.R. Tambo International,168.0,regional
+Empumalanga,-25.3167,31.1,O.R. Tambo International,300.5,regional
+Siyabuswa,-25.1167,29.05,O.R. Tambo International,139.4,regional
+Groblersdal,-25.15,29.3833,O.R. Tambo International,158.6,regional
+Boleu,-25.15,29.3833,O.R. Tambo International,158.6,regional
+Northern Provice,-24.8833,28.2833,O.R. Tambo International,139.4,regional
+Warmbad,-24.8833,28.2833,O.R. Tambo International,139.4,regional
+Leeupoort,-24.9,27.7167,O.R. Tambo International,147.2,regional
+Ellisras,-23.6667,27.7333,O.R. Tambo International,279.4,regional
+Vaalwater,-24.1667,28.1,O.R. Tambo International,219.5,regional
+Potgietersrus,-24.1833,29.0167,O.R. Tambo International,230.8,regional
+Naboomspruit,-24.5167,28.7167,O.R. Tambo International,186.4,regional
+Roedtan,-24.5777,28.202,O.R. Tambo International,173.4,regional
+Nkwe,-23.4,28.75,O.R. Tambo International,308.6,regional
+Rebone,-24.1833,29.0167,O.R. Tambo International,230.8,regional
+Mahwelereng,-24.15,28.9833,O.R. Tambo International,233.2,regional
+Bochum,-24.1667,29.0,O.R. Tambo International,232.0,regional
+Pietersburg,-24.1833,29.0167,O.R. Tambo International,230.8,regional
+Mokamole,-24.1833,29.0167,O.R. Tambo International,230.8,regional
+Potgieterus,-24.1833,29.0167,O.R. Tambo International,230.8,regional
+Seshego,-23.85,29.3833,O.R. Tambo International,279.1,regional
+Ga-Maraba,-23.7167,29.3167,O.R. Tambo International,290.1,regional
+Koloti,-23.7167,29.3167,O.R. Tambo International,290.1,regional
+Lonsdale,-23.6,29.1667,O.R. Tambo International,297.1,regional
+Neandertal,-23.4833,29.1833,O.R. Tambo International,310.0,regional
+Raditshaba,-22.8333,28.85,O.R. Tambo International,372.5,regional
+Dikgale,-23.7333,29.7833,O.R. Tambo International,309.2,regional
+Boyne,-23.9333,29.8167,O.R. Tambo International,291.9,regional
+Sovenga,-23.9333,29.8167,O.R. Tambo International,291.9,regional
+Mphogodiba,-23.9667,29.7,O.R. Tambo International,282.5,regional
+Tholongwe,-23.9667,29.7,O.R. Tambo International,282.5,regional
+Mphahlele,-23.9667,29.7,O.R. Tambo International,282.5,regional
+Mashashane,-23.95,29.1333,O.R. Tambo International,259.2,regional
+Chuenespoort,-23.95,29.1333,O.R. Tambo International,259.2,regional
+Bakone,-23.95,29.1333,O.R. Tambo International,259.2,regional
+Juno,-23.95,29.1333,O.R. Tambo International,259.2,regional
+Atok,-23.95,29.1333,O.R. Tambo International,259.2,regional
+Manyama,-23.6774,29.4869,O.R. Tambo International,300.9,regional
+Letsitele,-23.8833,30.4,O.R. Tambo International,331.8,regional
+Superbia,-23.8833,30.4,O.R. Tambo International,331.8,regional
+Dendron,-23.3833,29.3333,O.R. Tambo International,325.4,regional
+Soekmekaar,-23.4833,29.9333,O.R. Tambo International,340.9,regional
+Dwars River,-23.45,29.75,O.R. Tambo International,335.3,regional
+Duiwelskloof,-23.7,30.1333,O.R. Tambo International,331.4,regional
+Malamulele,-23.5444,29.9389,O.R. Tambo International,335.3,regional
+Giyani,-23.3167,30.7167,O.R. Tambo International,401.0,regional
+Molototsi,-23.3167,30.7167,O.R. Tambo International,401.0,regional
+Gakgapane,-23.3167,30.7167,O.R. Tambo International,401.0,regional
+Tzaneen,-23.8333,30.1667,O.R. Tambo International,321.3,regional
+Letaba,-23.9,30.0667,O.R. Tambo International,309.3,regional
+Shiluvane,-24.0333,30.2667,O.R. Tambo International,310.3,regional
+Trichardtsdal,-24.1667,30.4,O.R. Tambo International,308.5,regional
+Messina,-22.35,30.05,O.R. Tambo International,459.3,regional
+Louis Trichardt,-23.05,29.9,O.R. Tambo International,382.0,regional
+Sibasa,-22.95,30.4667,O.R. Tambo International,419.8,regional
+Thohoyandou,-22.95,30.4833,O.R. Tambo International,420.7,regional
+Munzhedzi,-23.05,29.9,O.R. Tambo International,382.0,regional
+Dzanani,-22.8833,30.1667,O.R. Tambo International,410.9,regional
+Mutale,-22.4833,30.9167,O.R. Tambo International,488.4,regional
+Muthathi,-22.95,30.4667,O.R. Tambo International,419.8,regional
+Mungomani,-22.95,30.4667,O.R. Tambo International,419.8,regional
+Cullinan,-25.6756,28.5222,O.R. Tambo International,58.5,regional
+Bronkhorstspruit,-25.8083,28.7406,O.R. Tambo International,61.9,regional
+Ekangala,-25.6944,28.7483,O.R. Tambo International,70.7,regional
+Kwamhlanga,-25.4283,28.7083,O.R. Tambo International,91.6,regional
+Witbank,-25.8667,29.2333,O.R. Tambo International,103.6,regional
+Coalville,-26.0333,29.1667,O.R. Tambo International,93.2,regional
+Middelburg,-30.05,26.6167,Bram Fischer (Bloemfontein),110.7,regional
+Mpumalanga,-30.05,26.6167,Bram Fischer (Bloemfontein),110.7,regional
+Middleburg,-30.05,26.6167,Bram Fischer (Bloemfontein),110.7,regional
+Nasaret,-26.2333,28.8,O.R. Tambo International,56.8,regional
+Nebo,-24.9,29.7667,O.R. Tambo International,205.8,regional
+Sekhukhune,-26.3611,28.7722,O.R. Tambo International,58.6,regional
+Kwaguqa,-25.8667,29.2333,O.R. Tambo International,103.6,regional
+Mpudulle,-25.0167,29.7333,O.R. Tambo International,194.7,regional
+Burgersfort,-24.6667,30.3333,O.R. Tambo International,266.2,regional
+Hendrina,-26.15,29.7167,O.R. Tambo International,147.3,regional
+Kwazamokuhle,-26.15,29.7167,O.R. Tambo International,147.3,regional
+Belfast,-25.6833,30.0333,O.R. Tambo International,186.2,regional
+Lydenburg,-25.1,30.45,O.R. Tambo International,249.7,regional
+Driekop,-24.5833,30.1667,O.R. Tambo International,259.4,regional
+Nelspruit,-25.4667,30.9667,O.R. Tambo International,282.8,regional
+Penge,-24.3667,30.3,O.R. Tambo International,285.7,regional
+Carolina,-26.0693,30.1149,O.R. Tambo International,187.3,regional
+Kanyamazane,-25.4333,31.2,O.R. Tambo International,306.4,regional
+Acornhoek,-24.5833,31.0833,O.R. Tambo International,333.7,regional
+White River,-25.3167,31.0167,O.R. Tambo International,292.6,regional
+Hazyview,-25.3167,31.0167,O.R. Tambo International,292.6,regional
+Witrivier,-25.3167,31.0167,O.R. Tambo International,292.6,regional
+Mkhuhlu,-25.3917,30.9917,O.R. Tambo International,287.6,regional
+Kabokweni,-25.3917,30.9917,O.R. Tambo International,287.6,regional
+Whiteriver,-24.9333,31.0917,O.R. Tambo International,315.8,regional
+Bushbuckridge,-24.8333,31.0667,O.R. Tambo International,318.5,regional
+Sabie,-25.1,30.7833,O.R. Tambo International,279.7,regional
+Graskop,-24.9333,30.8333,O.R. Tambo International,292.5,regional
+Ximhungwe,-24.8333,31.0667,O.R. Tambo International,318.5,regional
+Bosbokrand,-24.8333,31.0667,O.R. Tambo International,318.5,regional
+Barberton,-25.7833,31.05,O.R. Tambo International,283.6,regional
+Malelane,-25.4833,31.5167,O.R. Tambo International,335.8,regional
+Shongwe Mission,-25.4667,31.9,O.R. Tambo International,373.8,regional
+Komatipoort,-25.4333,31.9333,O.R. Tambo International,377.9,regional
+Kwalugedlane,-25.7333,31.8167,O.R. Tambo International,360.3,regional
+Skukuza,-24.9833,31.6,O.R. Tambo International,360.5,regional
+Hluvukani,-24.65,31.3333,O.R. Tambo International,351.9,regional
+Thulamahashe,-24.6167,31.2083,O.R. Tambo International,342.7,regional
+Hoedspruit,-24.35,30.9667,O.R. Tambo International,338.5,regional
+Phalaborwa,-23.95,31.1167,O.R. Tambo International,378.2,regional
+Namakgale,-23.95,31.0333,O.R. Tambo International,371.8,regional
+Delmore,-26.2,28.175,O.R. Tambo International,9.6,major
+Primrose,-26.1833,28.1667,O.R. Tambo International,9.0,major
+Germiston,-26.2167,28.1833,O.R. Tambo International,10.6,major
+Elsburg,-26.2333,28.2,O.R. Tambo International,11.5,major
+Katlehong,-26.3333,28.15,O.R. Tambo International,23.7,major
+Tokoza,-26.3667,28.0667,O.R. Tambo International,30.9,major
+Tokoza Ext,-26.35,28.1083,O.R. Tambo International,27.2,major
+Alrode,-26.3,28.1333,O.R. Tambo International,21.1,major
+Elandsfontein,-26.3833,27.8667,O.R. Tambo International,46.3,major
+Katlehong Ext,-26.3583,28.2667,O.R. Tambo International,24.8,major
+Kwenzekile,-26.3583,28.2667,O.R. Tambo International,24.8,major
+Gauteng,-26.3583,28.2667,O.R. Tambo International,24.8,major
+Heidelberg,-26.5,28.35,O.R. Tambo International,41.8,major
+Boksburg,-26.2167,28.25,O.R. Tambo International,8.9,major
+Alberton,-26.2333,28.1333,O.R. Tambo International,15.2,major
+Rusloo,-26.2167,28.25,O.R. Tambo International,8.9,major
+Nigel,-26.4167,28.4667,O.R. Tambo International,38.4,major
+Duduza,-26.3667,28.4167,O.R. Tambo International,31.0,major
+Dunnottar,-26.35,28.4167,O.R. Tambo International,29.5,major
+Benoni,-26.1833,28.3167,O.R. Tambo International,9.2,major
+Petit,-26.1,28.3833,O.R. Tambo International,14.8,major
+Putfontein,-26.1167,28.4,O.R. Tambo International,16.0,major
+Daveyton,-26.15,28.4167,O.R. Tambo International,17.6,major
+Ethwathwa West Uit 2,-26.15,28.4167,O.R. Tambo International,17.6,major
+Brakpan,-26.2333,28.3667,O.R. Tambo International,16.5,major
+Brakpan North,-26.2333,28.3667,O.R. Tambo International,16.5,major
+Minnebron,-26.2333,28.3667,O.R. Tambo International,16.5,major
+Dalpark,-26.2333,28.3667,O.R. Tambo International,16.5,major
+Tsakane,-26.35,28.3833,O.R. Tambo International,27.6,major
+Springs,-26.25,28.4,O.R. Tambo International,20.3,major
+Kwathema,-26.3,28.4,O.R. Tambo International,24.1,major
+Modderfontein,-26.0833,28.1667,O.R. Tambo International,9.5,major
+Edenvale,-26.1333,28.1833,O.R. Tambo International,5.8,major
+Kempton Park,-26.1,28.25,O.R. Tambo International,4.2,major
+Rabie Ridge,-26.1,28.25,O.R. Tambo International,4.2,major
+Tembisa,-26.1,28.25,O.R. Tambo International,4.2,major
+Tembisa Ext,-26.1,28.25,O.R. Tambo International,4.2,major
+Olifantsfontein,-25.9639,28.2394,O.R. Tambo International,19.2,major
+Halfway House,-25.9833,28.1167,O.R. Tambo International,21.1,major
+Noordwyk,-25.9833,28.1167,O.R. Tambo International,21.1,major
+Ivory Park,-25.9911,28.1718,O.R. Tambo International,17.6,major
+Florida,-26.1667,27.9167,O.R. Tambo International,32.5,major
+Allen'S Nek,-31.6667,28.0333,King Phalo (East London),153.5,regional
+Roodepoort,-26.1667,27.8667,O.R. Tambo International,37.5,major
+Krugersdorp,-26.1,27.7667,O.R. Tambo International,47.5,major
+Dobsonville,-26.2167,27.8667,O.R. Tambo International,38.4,major
+Strubens Valley,-26.1767,27.8667,O.R. Tambo International,37.6,major
+Rooderpoort,-26.1767,27.8667,O.R. Tambo International,37.6,major
+Strubensvallei,-26.1767,27.8667,O.R. Tambo International,37.6,major
+Muldersdrif,-26.1,27.7667,O.R. Tambo International,47.5,major
+Kagiso,-26.1,27.7667,O.R. Tambo International,47.5,major
+Randfontein,-26.1667,27.7,O.R. Tambo International,54.1,regional
+Mohlakeng,-26.2333,27.7,O.R. Tambo International,55.0,regional
+Kocksvlei,-26.1111,27.7722,O.R. Tambo International,46.9,major
+Westonaria,-26.3167,27.65,O.R. Tambo International,62.3,regional
+Bekkersdal,-26.2833,27.7167,O.R. Tambo International,54.8,regional
+Meadowlands,-26.2,27.8833,O.R. Tambo International,36.4,major
+Dube,-26.25,27.9167,O.R. Tambo International,34.7,major
+Soweto,-26.2667,27.8667,O.R. Tambo International,40.0,major
+Diepkloof,-26.2333,27.9333,O.R. Tambo International,32.5,major
+Orlando,-26.25,27.9167,O.R. Tambo International,34.7,major
+Orange Farm,-26.2474,27.8987,O.R. Tambo International,36.3,major
+Pimville,-26.2667,27.9,O.R. Tambo International,37.0,major
+Lenasia,-26.2667,27.8833,O.R. Tambo International,38.5,major
+Eldoradopark,-26.3,27.9,O.R. Tambo International,38.6,major
+Tshiawelo,-26.2917,27.9,O.R. Tambo International,38.1,major
+Protea Glen,-26.2917,27.9,O.R. Tambo International,38.1,major
+Ennerdale,-26.4167,27.8333,O.R. Tambo International,51.2,regional
+Odin Park,-26.3167,27.8333,O.R. Tambo International,45.3,major
+Naledi,-23.8333,29.0833,O.R. Tambo International,269.8,regional
+Kwaxuma,-25.4333,28.2889,O.R. Tambo International,78.4,regional
+Meyerton,-26.5667,28.0167,O.R. Tambo International,52.8,regional
+Randvaal,-26.5667,28.0167,O.R. Tambo International,52.8,regional
+Walkerville,-26.4167,27.9667,O.R. Tambo International,41.4,major
+De Deur,-26.5333,27.9333,O.R. Tambo International,53.7,regional
+Vanderbijlpark,-26.7,27.8167,O.R. Tambo International,75.6,regional
+Vereeniging,-26.6667,27.9333,O.R. Tambo International,66.4,regional
+Mafatsana,-26.5833,27.8333,O.R. Tambo International,64.2,regional
+Sebokeng,-26.5833,27.8333,O.R. Tambo International,64.2,regional
+Masoheng,-26.7,27.8167,O.R. Tambo International,75.6,regional
+Sharpeville,-26.6833,27.8833,O.R. Tambo International,70.4,regional
+Palm Springs,-26.6972,27.8278,O.R. Tambo International,74.7,regional
+Deneysville,-26.8833,28.1,O.R. Tambo International,84.2,regional
+Roshnee,-26.5667,27.9333,O.R. Tambo International,56.8,regional
+Bedworth Park,-26.7167,27.8833,O.R. Tambo International,73.7,regional
+Sasolburg,-26.8167,27.8167,O.R. Tambo International,86.6,regional
+Kragbron,-26.9,27.8833,O.R. Tambo International,92.0,regional
+Zamdela,-26.8333,27.85,O.R. Tambo International,86.7,regional
+Residensia,-26.5833,27.8333,O.R. Tambo International,64.2,regional
+Oranjeville,-26.9833,28.2,O.R. Tambo International,94.2,regional
+Johannesburg,-26.2,28.0833,O.R. Tambo International,17.2,major
+Bedfordview,-26.1667,28.15,O.R. Tambo International,9.7,major
+Bryanston,-26.2,28.0833,O.R. Tambo International,17.2,major
+Strathavon,-26.2,28.0833,O.R. Tambo International,17.2,major
+Randburg,-26.1,27.9833,O.R. Tambo International,26.1,major
+Bramley,-26.2,28.0833,O.R. Tambo International,17.2,major
+Four Ways,-26.0333,27.9833,O.R. Tambo International,28.2,major
+Paulshof,-26.05,28.0333,O.R. Tambo International,22.9,major
+Marlboro,-26.2,28.0833,O.R. Tambo International,17.2,major
+Magaliessig,-26.2,28.0833,O.R. Tambo International,17.2,major
+Magalies View,-26.2,28.0833,O.R. Tambo International,17.2,major
+Witkoppen,-26.2,28.0833,O.R. Tambo International,17.2,major
+Hurlingham View,-26.2,28.0833,O.R. Tambo International,17.2,major
+Jeppestown,-26.2,28.0833,O.R. Tambo International,17.2,major
+Marshalltown,-26.2,28.0833,O.R. Tambo International,17.2,major
+Rivonia,-26.05,28.05,O.R. Tambo International,21.4,major
+Jukskeipark,-26.2,28.0833,O.R. Tambo International,17.2,major
+Bromhof,-26.2,28.0833,O.R. Tambo International,17.2,major
+Northwold,-26.2,28.0833,O.R. Tambo International,17.2,major
+Randpark Ridge,-26.2,28.0833,O.R. Tambo International,17.2,major
+North Riding,-26.2,28.0833,O.R. Tambo International,17.2,major
+Sandton,-26.05,27.9667,O.R. Tambo International,29.0,major
+Rosettenville,-26.25,28.05,O.R. Tambo International,22.8,major
+Orange Grove,-26.1667,28.0833,O.R. Tambo International,16.1,major
+Roosevelt Park,-26.15,27.9833,O.R. Tambo International,25.8,major
+Sundra,-26.2311,29.0356,O.R. Tambo International,80.0,regional
+Delmas,-26.15,28.6833,O.R. Tambo International,44.2,major
+Kriel,-26.2667,29.2333,O.R. Tambo International,100.1,regional
+Ogies,-26.05,29.0667,O.R. Tambo International,83.0,regional
+Van Dyksdrif,-26.2311,29.0356,O.R. Tambo International,80.0,regional
+Blinkpan,-26.1,29.4333,O.R. Tambo International,119.1,regional
+Evander,-26.35,28.7667,O.R. Tambo International,57.5,regional
+Devon,-26.35,28.7667,O.R. Tambo International,57.5,regional
+Leslie,-26.3667,28.9167,O.R. Tambo International,72.1,regional
+Embalenhle,-26.5333,29.0667,O.R. Tambo International,93.4,regional
+Secunda,-26.55,29.1667,O.R. Tambo International,103.1,regional
+Bethal,-26.45,29.4667,O.R. Tambo International,127.1,regional
+Ermelo,-26.5333,29.9833,O.R. Tambo International,179.1,regional
+Breyten,-26.3,29.9833,O.R. Tambo International,174.7,regional
+Dundonald,-26.5333,29.9833,O.R. Tambo International,179.1,regional
+Nucam,-26.5333,29.9833,O.R. Tambo International,179.1,regional
+Amsterdam,-26.6167,30.6667,O.R. Tambo International,247.5,regional
+Piet Retief,-27.0,30.8,O.R. Tambo International,272.0,regional
+Balfour,-26.65,28.5833,O.R. Tambo International,66.5,regional
+Standerton,-26.95,29.25,O.R. Tambo International,135.1,regional
+Sakhile,-26.9667,29.2,O.R. Tambo International,132.7,regional
+Volksrust,-27.3667,29.8833,O.R. Tambo International,212.8,regional
+Wakkerstroom,-27.35,30.1333,O.R. Tambo International,231.3,regional
+Amersfoort,-26.9833,28.85,O.R. Tambo International,111.9,regional
+Carletonville,-26.3667,27.4,O.R. Tambo International,87.7,regional
+Fochville,-26.4833,27.5,O.R. Tambo International,83.3,regional
+Kokosi,-26.5,27.4667,O.R. Tambo International,87.1,regional
+Potchefstroom,-26.7167,27.1,O.R. Tambo International,130.6,regional
+Boskop,-29.5,26.2,Bram Fischer (Bloemfontein),46.4,major
+Carltonville,-26.7167,27.1,O.R. Tambo International,130.6,regional
+Stilfontein,-26.85,26.7833,O.R. Tambo International,165.3,regional
+Klerksdorp,-26.8667,26.6667,O.R. Tambo International,176.4,regional
+Jouberton,-26.9,26.6,O.R. Tambo International,184.0,regional
+Klerkskdorp,-26.8833,26.6333,O.R. Tambo International,180.2,regional
+Hartbeesfontein,-26.7667,26.4167,O.R. Tambo International,194.7,regional
+Ottosdal,-26.8167,26.0167,O.R. Tambo International,233.9,regional
+Orkney,-26.9833,26.6667,O.R. Tambo International,182.7,regional
+Wolmaransstad,-27.2,25.9667,Bram Fischer (Bloemfontein),213.0,regional
+Leeudoringstad,-27.2333,26.2333,Bram Fischer (Bloemfontein),206.9,regional
+Makwassie,-27.3167,25.9833,Bram Fischer (Bloemfontein),199.9,regional
+Bloemhof,-27.65,25.6,Kimberley,152.1,regional
+Christiana,-28.2333,21.25,Upington,18.5,major
+Ventersdorp,-26.3167,26.8167,O.R. Tambo International,143.5,regional
+Itsoseng,-26.0667,25.8833,O.R. Tambo International,235.6,regional
+Delareyville,-26.6833,25.4667,Kimberley,245.6,regional
+Coligny,-26.3333,26.3167,O.R. Tambo International,193.2,regional
+Lichtenburg,-26.15,26.1667,O.R. Tambo International,207.1,regional
+Madikwe,-25.35,26.5333,O.R. Tambo International,192.1,regional
+Radithuso,-26.1811,25.8339,O.R. Tambo International,240.3,regional
+Sannieshof,-26.5333,25.8,O.R. Tambo International,247.2,regional
+Madibogo,-26.4167,25.2,Kimberley,268.8,regional
+Schweizer-Reneke,-27.1833,25.3333,Kimberley,188.5,regional
+Mmabatho,-25.85,25.6333,O.R. Tambo International,262.6,regional
+Vyrburg,-26.5389,25.3833,Kimberley,259.0,regional
+Swartruggens,-25.65,26.7,O.R. Tambo International,163.4,regional
+Zeerust,-25.5333,26.0833,O.R. Tambo International,226.1,regional
+Dinokana,-25.45,25.8667,O.R. Tambo International,249.7,regional
+Lerato,-25.45,25.8667,O.R. Tambo International,249.7,regional
+Ladysmith,-28.55,29.7833,King Shaka International,175.7,regional
+Wasbank,-29.7167,26.3833,Bram Fischer (Bloemfontein),69.8,regional
+Glencoe,-28.1833,30.15,King Shaka International,185.0,regional
+Newcastle,-27.75,29.9333,King Shaka International,237.4,regional
+Madadeni,-27.75,30.0333,King Shaka International,232.8,regional
+Osizweni,-27.7833,30.15,King Shaka International,224.5,regional
+Utrecht,-27.65,30.3333,King Shaka International,231.5,regional
+Dundee,-28.1667,30.2333,King Shaka International,182.6,regional
+Vryheid,-27.7667,30.8,King Shaka International,207.8,regional
+Nqutu,-28.2,30.6667,King Shaka International,163.3,regional
+Tugela Ferry,-28.7333,30.45,King Shaka International,117.6,regional
+Pomeroy,-28.55,30.4167,King Shaka International,136.7,regional
+Blood River,-28.1909,30.2879,King Shaka International,177.8,regional
+Dannhauser,-28.0,30.05,King Shaka International,207.6,regional
+Dannhause,-28.0,30.05,King Shaka International,207.6,regional
+Emondlo,-28.2533,29.9933,King Shaka International,186.9,regional
+Hlobane,-27.7167,31.0,King Shaka International,211.3,regional
+Pongola,-27.3833,31.6167,King Shaka International,252.8,regional
+Paulpietersburg,-27.4167,30.8167,King Shaka International,246.2,regional
+Pietermaritzburg,-29.6167,30.3833,King Shaka International,71.2,regional
+Edendale,-29.65,30.2833,King Shaka International,80.9,regional
+Scottsville,-29.6167,30.3833,King Shaka International,71.2,regional
+Howick,-29.4667,30.2333,King Shaka International,87.3,regional
+Elandskop,-29.3167,29.7,King Shaka International,141.4,regional
+Impendle,-29.6,29.8667,King Shaka International,121.1,regional
+Dalton,-29.3333,30.6333,King Shaka International,56.5,regional
+Wartburg,-29.4333,30.5833,King Shaka International,55.7,regional
+Greytown,-29.4333,30.5833,King Shaka International,55.7,regional
+Kokstad,-30.55,29.4167,King Shaka International,194.1,regional
+Donnybrook,-29.9333,29.8667,King Shaka International,126.0,regional
+Umzimkulu,-30.2667,29.9333,King Shaka International,135.4,regional
+Ozwatini,-29.4,30.85,King Shaka International,35.3,major
+Bulwer,-29.8,29.75,King Shaka International,133.9,regional
+Kwazulu/Natal,-29.0667,30.5833,King Shaka International,80.1,regional
+Umzinto,-30.0333,29.8333,King Shaka International,132.5,regional
+Creighton,-30.0333,29.8333,King Shaka International,132.5,regional
+Kranskop,-30.5667,26.9,Bram Fischer (Bloemfontein),173.7,regional
+Amanzimtoti,-30.05,30.8833,King Shaka International,53.5,regional
+Estcourt,-29.0,29.8833,King Shaka International,138.0,regional
+Merrivale,-29.5167,30.2333,King Shaka International,86.4,regional
+Mooi River,-29.2,29.9833,King Shaka International,119.3,regional
+Highflats,-30.2667,30.2,King Shaka International,114.5,regional
+Winterton,-28.8,29.5333,King Shaka International,178.6,regional
+Bergville,-28.7333,29.3667,King Shaka International,196.4,regional
+Colenso,-28.7333,29.8167,King Shaka International,160.0,regional
+Harrismith,-28.2833,29.1333,King Shaka International,243.4,regional
+Steadville,-28.55,29.7833,King Shaka International,175.7,regional
+Ezakheni,-28.55,29.7833,King Shaka International,175.7,regional
+Pinetown,-29.8167,30.85,King Shaka International,34.4,major
+Nagina,-29.8167,30.85,King Shaka International,34.4,major
+Chatsworth,-29.8167,30.85,King Shaka International,34.4,major
+St Wendolins,-29.8167,30.85,King Shaka International,34.4,major
+Kloof,-29.7833,30.8333,King Shaka International,33.4,major
+Hillcrest,-29.7667,30.7667,King Shaka International,38.1,major
+Gillitts,-29.8,30.8,King Shaka International,37.1,major
+Link Hills,-29.8139,30.8389,King Shaka International,35.0,major
+Clernaville,-29.8139,30.8389,King Shaka International,35.0,major
+New Germany,-29.8,30.8833,King Shaka International,30.8,major
+Durban,-29.85,31.0167,King Shaka International,28.0,major
+Westville,-29.8333,30.9333,King Shaka International,30.3,major
+Botha'S Hill,-29.7167,30.7333,King Shaka International,39.0,major
+Hammarsdale,-29.8,30.65,King Shaka International,49.8,major
+Cato Ridge,-29.7333,30.5833,King Shaka International,53.5,regional
+Mid Illovo,-29.9667,30.5167,King Shaka International,70.1,regional
+Richmond,-29.8667,30.2667,King Shaka International,87.0,regional
+Gingindlovu,-29.0167,31.5833,King Shaka International,80.2,regional
+Mandeni,-29.0167,31.5833,King Shaka International,80.2,regional
+Eshowe,-28.8833,31.4667,King Shaka International,88.0,regional
+Stanger,-28.8833,31.4667,King Shaka International,88.0,regional
+Melmoth,-28.5833,31.3833,King Shaka International,117.5,regional
+Nongoma,-27.9,31.65,King Shaka International,197.5,regional
+Ulundi,-28.3333,31.4167,King Shaka International,145.4,regional
+Nkandla,-28.6167,31.0833,King Shaka International,111.0,regional
+Mahlabatini,-28.25,31.4333,King Shaka International,154.8,regional
+Mtunzini,-28.95,31.75,King Shaka International,95.9,regional
+Ceza,-27.9833,31.3833,King Shaka International,183.2,regional
+Empangeni,-28.75,31.9,King Shaka International,122.4,regional
+Kwadlangezwa,-28.7767,31.9,King Shaka International,120.1,regional
+Esikhawini,-28.8833,31.9,King Shaka International,111.1,regional
+Richardsbaai,-28.7901,32.0971,King Shaka International,131.9,regional
+Richards Bay,-28.7901,32.0971,King Shaka International,131.9,regional
+Kwambonambi,-28.6,32.0833,King Shaka International,146.6,regional
+Mtubatuba,-28.4167,32.1833,King Shaka International,168.6,regional
+St Lucia Estuary,-28.4167,32.1833,King Shaka International,168.6,regional
+Hlabisa,-28.1333,31.8667,King Shaka International,180.0,regional
+Hluhluwe,-28.0333,32.2833,King Shaka International,209.2,regional
+Ingwavuma,-27.1333,31.9833,King Shaka International,288.5,regional
+Mkuze,-27.6167,32.0333,King Shaka International,239.4,regional
+Ubombo,-27.5667,32.0833,King Shaka International,246.4,regional
+Mbazwana,-27.6167,32.0333,King Shaka International,239.4,regional
+Kwangkwanase,-27.5278,32.0333,King Shaka International,248.6,regional
+Jozini,-27.4333,32.0667,King Shaka International,259.6,regional
+Yellowwood Park,-29.85,31.0167,King Shaka International,28.0,major
+Durban North,-29.8,31.0333,King Shaka International,22.3,major
+Umhlanga Rocks,-29.7167,31.0667,King Shaka International,12.5,major
+Lamontville,-29.95,30.9333,King Shaka International,41.4,major
+Umlazi,-29.9667,30.8833,King Shaka International,45.3,major
+Inanda,-26.1167,28.05,O.R. Tambo International,19.2,major
+Kwazimele,-29.85,31.0167,King Shaka International,28.0,major
+Kwa-Mashu,-29.85,31.0167,King Shaka International,28.0,major
+Marble Ray,-29.85,31.0167,King Shaka International,28.0,major
+Mobeni,-29.95,30.95,King Shaka International,40.8,major
+Durban-Noord,-29.8,31.0333,King Shaka International,22.3,major
+Bluff,-29.85,31.0167,King Shaka International,28.0,major
+Isipingo,-29.9667,30.8833,King Shaka International,45.3,major
+Ntokozweni,-29.9667,30.8833,King Shaka International,45.3,major
+Mount Edgecombe,-29.7,31.0333,King Shaka International,12.7,major
+Phoenix,-29.775,31.025,King Shaka International,20.1,major
+Rossburgh,-29.9,30.9667,King Shaka International,35.0,major
+Queensburgh,-29.8667,30.9333,King Shaka International,33.3,major
+Mayville,-29.85,30.9833,King Shaka International,29.3,major
+Dormerton,-29.85,31.0,King Shaka International,28.6,major
+Marianhill,-29.9,30.9833,King Shaka International,34.4,major
+Northdene,-29.8333,30.9333,King Shaka International,30.3,major
+Shallcross,-29.8333,30.9333,King Shaka International,30.3,major
+Umbumbulu,-29.9833,30.7,King Shaka International,57.6,regional
+Jacobs,-29.9333,30.9833,King Shaka International,37.8,major
+Isipingo Beach,-29.9833,30.95,King Shaka International,44.2,major
+Winklespruit,-30.1,30.85,King Shaka International,59.9,regional
+Umbogintwini,-30.0333,30.9167,King Shaka International,50.5,regional
+Doonside,-30.0667,30.8833,King Shaka International,55.2,regional
+Illovo Beach,-30.1167,30.85,King Shaka International,61.6,regional
+Malvern,-26.2,28.1,O.R. Tambo International,15.7,major
+Umkomaas,-30.2,30.8,King Shaka International,72.0,regional
+Scottburgh,-30.2833,30.75,King Shaka International,82.5,regional
+Pennington,-30.2833,30.75,King Shaka International,82.5,regional
+Ifafa Beach,-30.45,30.65,King Shaka International,103.3,regional
+Hibberdene,-30.3167,30.6667,King Shaka International,89.5,regional
+Sezela,-30.4167,30.6833,King Shaka International,98.6,regional
+Umzumbe,-30.6167,30.55,King Shaka International,124.2,regional
+Port Shepstone,-30.75,30.45,King Shaka International,141.7,regional
+Anerley,-30.6667,30.5,King Shaka International,131.3,regional
+Umtentweni,-30.7167,30.4667,King Shaka International,137.7,regional
+Shelly Beach,-30.8,30.4167,King Shaka International,148.1,regional
+Ndwedwe,-30.75,30.45,King Shaka International,141.7,regional
+Mehlomnyama,-30.7571,30.4452,King Shaka International,142.6,regional
+Izingolweni,-30.7833,30.1333,King Shaka International,160.9,regional
+Uvongo,-31.4,26.5833,King Phalo (East London),216.2,regional
+Margate,-30.85,30.3667,King Shaka International,155.3,regional
+Manaba Beach,-30.85,30.3667,King Shaka International,155.3,regional
+Munster,-30.9833,30.2333,King Shaka International,174.4,regional
+Port Edward,-31.05,30.2167,King Shaka International,181.6,regional
+Verulam,-29.65,31.05,King Shaka International,7.8,major
+Kwamashu,-29.75,30.9833,King Shaka International,20.0,major
+Tongaat,-29.5833,31.1333,King Shaka International,3.7,major
+Maidstone,-29.5667,31.1333,King Shaka International,5.5,major
+Umhlali,-29.114,30.6772,King Shaka International,70.2,regional
+Hambanathi Heights,-29.114,30.6772,King Shaka International,70.2,regional
+Desainagar,-29.114,30.6772,King Shaka International,70.2,regional
+Shakaskraal,-29.45,31.2167,King Shaka International,20.5,major
+Mapumulo,-29.15,31.0667,King Shaka International,51.9,regional
+Darnall,-26.4,23.25,Upington,296.6,regional
+Harding,-30.5833,29.8833,King Shaka International,160.5,regional
+Nqabeni,-30.7333,30.0333,King Shaka International,162.4,regional
+Matatiele,-30.3333,28.8,King Shaka International,237.3,regional
+Mount Ayliff,-30.8,29.3667,King Shaka International,213.9,regional
+Maluti,-30.25,28.5333,Bram Fischer (Bloemfontein),251.0,regional
+Umtata,-31.5833,28.7833,King Phalo (East London),184.9,regional
+Queen'S Mercy,-30.25,28.5333,Bram Fischer (Bloemfontein),251.0,regional
+Queens Mercy,-30.25,28.5333,Bram Fischer (Bloemfontein),251.0,regional
+Magadla,-30.6,27.3167,Bram Fischer (Bloemfontein),194.1,regional
+Mount Fletcher,-30.6833,28.5167,King Phalo (East London),269.6,regional
+Bizana,-30.85,29.85,King Shaka International,183.7,regional
+Flagstaff,-31.0833,29.4833,King Shaka International,226.6,regional
+Lusikisiki,-31.35,29.5833,King Shaka International,242.7,regional
+Stutterheim,-32.5667,27.4167,King Phalo (East London),64.7,regional
+King William'S Town,-32.8833,27.4,King Phalo (East London),43.2,major
+Komga,-32.5833,27.9,King Phalo (East London),50.8,regional
+Butterworth,-32.3333,28.15,King Phalo (East London),83.8,regional
+Msobomvu,-32.3333,28.15,King Phalo (East London),83.8,regional
+Ndabakazi,-32.3333,28.15,King Phalo (East London),83.8,regional
+Kentani,-32.5167,28.3167,King Phalo (East London),73.7,regional
+Nqamakwe,-32.2333,28.0667,King Phalo (East London),92.0,regional
+Idutywa,-32.1,28.3,King Phalo (East London),113.1,regional
+Clarkebury,-31.7833,28.3,King Phalo (East London),146.2,regional
+Willowvale,-32.2667,28.5167,King Phalo (East London),107.2,regional
+Engcobo,-31.6833,28.0,King Phalo (East London),151.3,regional
+Elliotdale,-31.9667,28.6833,King Phalo (East London),143.5,regional
+Mqanduli,-31.8167,28.75,King Phalo (East London),160.9,regional
+Mount Frere,-30.9167,28.9833,King Shaka International,251.1,regional
+Port St Johns,-31.5833,28.7833,King Phalo (East London),184.9,regional
+Tabankulu,-30.9667,29.3,King Shaka International,230.5,regional
+Ngqeleni,-31.6667,29.0333,King Phalo (East London),189.8,regional
+Libode,-31.5333,29.0167,King Phalo (East London),201.1,regional
+Tsolo,-31.3167,28.75,King Phalo (East London),210.0,regional
+Qumbu,-31.15,28.8667,King Phalo (East London),231.5,regional
+Oos-Londen,-33.0333,27.9167,King Phalo (East London),8.5,major
+East London,-33.0249,27.9082,King Phalo (East London),7.8,major
+Pefferville,-33.0333,27.9167,King Phalo (East London),8.5,major
+Mdantsane,-32.95,27.7667,King Phalo (East London),11.0,major
+Nahoon,-33.0333,27.9167,King Phalo (East London),8.5,major
+Cambridge,-32.9667,27.8833,King Phalo (East London),9.3,major
+Gonubie,-32.9333,28.0167,King Phalo (East London),21.1,major
+Cathcart,-32.3,27.1333,King Phalo (East London),104.4,regional
+Queenstown,-31.9,26.8833,King Phalo (East London),154.2,regional
+Cofimvaba,-32.0167,27.5833,King Phalo (East London),115.6,regional
+Lady Frere,-31.7,27.2333,King Phalo (East London),158.6,regional
+Whittlesea,-32.1667,26.8167,King Phalo (East London),135.2,regional
+Cradock,-32.1833,25.6167,Chief Dawid Stuurman (Gqeberha),200.3,regional
+Tarkastad,-32.0167,26.2667,King Phalo (East London),184.9,regional
+Tsomo,-32.0333,27.8,King Phalo (East London),111.5,regional
+Dordrecht,-31.3667,27.05,King Phalo (East London),199.4,regional
+Sterkstroom,-31.5667,26.55,King Phalo (East London),202.6,regional
+Indwe,-31.4667,27.3333,King Phalo (East London),180.5,regional
+Cala,-31.5167,27.7,King Phalo (East London),169.3,regional
+Elliot,-30.9167,26.6833,Bram Fischer (Bloemfontein),206.1,regional
+Maclear,-31.0833,28.3667,King Phalo (East London),223.0,regional
+Molteno,-31.4,26.3667,King Phalo (East London),227.9,regional
+King Williams Town,-32.8833,27.4,King Phalo (East London),43.2,major
+Bisho,-32.8667,27.4333,King Phalo (East London),41.2,major
+Peddie,-33.2,27.1167,King Phalo (East London),68.5,regional
+Keiskammahoek,-32.6833,27.15,King Phalo (East London),74.3,regional
+Middledrift,-32.8167,26.9833,King Phalo (East London),82.3,regional
+Alice,-32.7833,26.8333,King Phalo (East London),96.8,regional
+Fort Beaufort,-32.7833,26.6333,King Phalo (East London),114.8,regional
+Eastern Cape,-32.765,26.685,King Phalo (East London),110.7,regional
+Adelaide,-32.7,26.3,King Phalo (East London),147.3,regional
+Bedford,-32.6833,26.0833,Chief Dawid Stuurman (Gqeberha),151.1,regional
+Grahamstown,-33.3,26.5333,Chief Dawid Stuurman (Gqeberha),114.0,regional
+Grahamstad,-33.3,26.5333,Chief Dawid Stuurman (Gqeberha),114.0,regional
+Cookhouse,-32.75,25.8167,Chief Dawid Stuurman (Gqeberha),138.6,regional
+Somerset East,-32.7167,25.5833,Chief Dawid Stuurman (Gqeberha),141.1,regional
+Pearston,-32.5833,25.1333,Chief Dawid Stuurman (Gqeberha),162.2,regional
+Steynsburg,-31.3,25.8167,Bram Fischer (Bloemfontein),249.8,regional
+Hofmeyr,-31.65,25.8,King Phalo (East London),244.9,regional
+Noupoort,-31.1874,24.9499,Kimberley,265.8,regional
+Port Elizabeth,-33.9667,25.5833,Chief Dawid Stuurman (Gqeberha),3.7,major
+Zwide,-33.8667,25.5667,Chief Dawid Stuurman (Gqeberha),13.9,major
+Emerald Hill,-34.0,25.55,Chief Dawid Stuurman (Gqeberha),6.4,major
+Estadeal,-33.9667,25.5833,Chief Dawid Stuurman (Gqeberha),3.7,major
+Hunter'S Retreat,-33.9667,25.5833,Chief Dawid Stuurman (Gqeberha),3.7,major
+Gelvandale,-33.9167,25.55,Chief Dawid Stuurman (Gqeberha),9.8,major
+Uitenhage,-33.7653,25.4022,Chief Dawid Stuurman (Gqeberha),31.5,major
+Linton Grange,-33.94,25.56,Chief Dawid Stuurman (Gqeberha),7.3,major
+Bethelsdorp,-33.8833,25.5,Chief Dawid Stuurman (Gqeberha),15.6,major
+Newton Park,-33.95,25.5667,Chief Dawid Stuurman (Gqeberha),6.1,major
+Saltville,-33.9667,25.5833,Chief Dawid Stuurman (Gqeberha),3.7,major
+Walmer,-33.9833,25.5833,Chief Dawid Stuurman (Gqeberha),3.1,major
+Addo,-33.5667,25.6833,Chief Dawid Stuurman (Gqeberha),46.9,major
+Kirkwood,-33.4156,25.4436,Chief Dawid Stuurman (Gqeberha),65.3,regional
+Paterson,-33.45,25.9667,Chief Dawid Stuurman (Gqeberha),67.7,regional
+Alicedale,-33.3167,26.0833,Chief Dawid Stuurman (Gqeberha),85.9,regional
+Bathurst,-33.4833,26.8333,King Phalo (East London),104.9,regional
+Port Alfred,-33.6,26.9,King Phalo (East London),106.5,regional
+Southseas,-33.6,26.9,King Phalo (East London),106.5,regional
+Colchester,-33.6,26.9,King Phalo (East London),106.5,regional
+Alexandria,-24.9167,31.15,O.R. Tambo International,321.9,regional
+Kenton On Sea,-33.7,26.6833,Chief Dawid Stuurman (Gqeberha),103.4,regional
+New Brighton,-33.9,25.6,Chief Dawid Stuurman (Gqeberha),9.6,major
+Kwazakhele,-33.8667,25.5833,Chief Dawid Stuurman (Gqeberha),13.5,major
+Swartkops,-33.8667,25.6,Chief Dawid Stuurman (Gqeberha),13.2,major
+Motherwell,-33.9667,25.5833,Chief Dawid Stuurman (Gqeberha),3.7,major
+Despatch,-33.8,25.4667,Chief Dawid Stuurman (Gqeberha),24.8,major
+Gambleville,-33.7839,25.3974,Chief Dawid Stuurman (Gqeberha),30.2,major
+Kwanobuhle,-33.8025,25.3925,Chief Dawid Stuurman (Gqeberha),29.0,major
+Steytlerville,-33.3328,24.3447,Chief Dawid Stuurman (Gqeberha),138.3,regional
+Klipplaat,-33.0211,24.3369,Chief Dawid Stuurman (Gqeberha),159.9,regional
+Jansenville,-32.9333,24.6667,Chief Dawid Stuurman (Gqeberha),146.5,regional
+Aberdeen,-32.4833,24.0667,Chief Dawid Stuurman (Gqeberha),220.6,regional
+Graaff-Reinet,-32.25,24.55,Chief Dawid Stuurman (Gqeberha),217.0,regional
+Adendorp,-32.3,24.55,Chief Dawid Stuurman (Gqeberha),212.1,regional
+Humansdorp,-34.0333,24.7667,Chief Dawid Stuurman (Gqeberha),78.6,regional
+Jeffreys Bay,-33.9028,24.8675,Chief Dawid Stuurman (Gqeberha),69.8,regional
+Jeffreysbaai,-34.05,24.9167,Chief Dawid Stuurman (Gqeberha),65.0,regional
+Patensie,-33.7556,24.8183,Chief Dawid Stuurman (Gqeberha),78.0,regional
+Hankey,-33.8333,24.8833,Chief Dawid Stuurman (Gqeberha),69.8,regional
+Hackney,-32.3167,26.6333,King Phalo (East London),137.3,regional
+Kareedouw,-30.7833,25.85,Bram Fischer (Bloemfontein),193.0,regional
+Joubertina,-30.85,26.6833,Bram Fischer (Bloemfontein),198.8,regional
+Willowmore,-33.2833,23.4833,George,130.0,regional
+Uniondale,-33.65,23.1333,George,80.1,regional
+Mossel Bay,-34.1833,22.1333,George,30.0,major
+Mosselbaai,-34.1833,22.1333,George,30.0,major
+Mosselbay,-34.1833,22.1333,George,30.0,major
+Kwanonqaba,-34.1833,22.1333,George,30.0,major
+Hartenbos,-34.1167,22.1167,George,27.1,major
+Groot-Brakrivier,-34.0333,22.2167,George,15.3,major
+Great Brak River,-34.0333,22.2167,George,15.3,major
+George East,-33.8167,25.65,Chief Dawid Stuurman (Gqeberha),18.9,major
+George,-33.9667,22.45,George,7.9,major
+Pacaltsdorp,-34.0167,22.45,George,6.7,major
+Knysna,-34.034,23.0343,George,60.5,regional
+Sedgefield,-34.0167,22.8,George,38.8,major
+Plettenbergbaai,-34.0455,23.3727,George,91.7,regional
+Plettenberg Bay,-34.0455,23.3727,George,91.7,regional
+Oudtshoorn,-33.5833,22.2,George,49.8,major
+Oudshoorn,-33.5833,22.2,George,49.8,major
+Ladismith,-33.4833,21.2667,George,118.1,regional
+Western Cape,-33.55,21.8889,George,68.0,regional
+Calitzdorp,-33.5333,21.6833,George,83.0,regional
+Heidelberg Wc,-33.5333,21.6833,George,83.0,regional
+Riversdale,-34.1,21.2667,George,103.0,regional
+Still Bay,-34.3667,21.4,George,98.6,regional
+Stilbaai,-34.3667,21.4167,George,97.2,regional
+Albertinia,-34.2,21.5833,George,76.4,regional
+Albertina,-34.2,21.5833,George,76.4,regional
+Robertson,-33.8,19.8833,Cape Town International,120.2,regional
+Ashton,-33.8167,20.05,Cape Town International,135.2,regional
+Montagu,-33.7833,20.1167,Cape Town International,141.8,regional
+Bonnievale,-33.9333,22.0333,George,32.9,major
+Swellendam,-34.0333,20.4333,Cape Town International,169.4,regional
+Porterville,-33.0167,18.9833,Cape Town International,111.9,regional
+Tulbagh,-33.2833,19.15,Cape Town International,91.9,regional
+Wolseley,-33.4167,19.2,Cape Town International,83.1,regional
+Ceres,-33.3667,19.3167,Cape Town International,94.5,regional
+Prince Alfred Hamlet,-33.3,19.3167,Cape Town International,99.9,regional
+Worcester,-33.65,19.4333,Cape Town International,85.1,regional
+Touwsrivier,-33.3333,20.0333,Cape Town International,150.6,regional
+Touws River,-33.3333,20.0333,Cape Town International,150.6,regional
+Laingsburg,-33.2,20.85,George,167.5,regional
+Sutherland,-32.4,20.6667,George,239.3,regional
+Prince Albert,-33.2167,22.0333,George,93.4,regional
+Beaufort West,-32.35,22.5833,George,185.1,regional
+Fraserburg,-31.9167,21.5167,George,245.8,regional
+Beaufort Wes,-32.35,22.5833,George,185.1,regional
+Beaufort-Wes,-32.35,22.5833,George,185.1,regional
+De Aar,-30.65,24.0167,Kimberley,217.7,regional
+Hanover,-31.0667,24.45,Kimberley,253.6,regional
+Victoria West,-31.4,23.1167,George,297.8,regional
+Northern Cape,-31.2889,23.5611,Kimberley,299.7,regional
+Cape Town,-33.9167,18.4167,Cape Town International,17.7,major
+Eerste River,-34.0,18.7333,Cape Town International,13.0,major
+Kaapstad,-33.9778,18.6167,Cape Town International,2.0,major
+Delft,-33.9778,18.6167,Cape Town International,2.0,major
+Eerste Rivier,-33.9778,18.6167,Cape Town International,2.0,major
+Eersterivier,-34.0167,18.7,Cape Town International,10.8,major
+Somerset West,-34.0833,18.85,Cape Town International,26.5,major
+Firgrove,-34.075,18.8083,Cape Town International,22.7,major
+Macassar,-34.0667,18.7667,Cape Town International,19.0,major
+Somerset-Wes,-34.075,18.8083,Cape Town International,22.7,major
+Gordon'S Bay,-34.1667,18.8667,Cape Town International,33.1,major
+Strand,-34.1167,18.8333,Cape Town International,27.2,major
+Kleinmond,-34.35,19.0333,Cape Town International,58.3,regional
+Grabouw,-34.15,19.0167,Cape Town International,43.5,major
+Caledon,-34.2167,19.4167,Cape Town International,80.3,regional
+Hermanus,-34.4166,19.2333,Cape Town International,76.8,regional
+Onrus River,-34.4167,19.2333,Cape Town International,76.8,regional
+Gans Bay,-34.5833,19.35,Cape Town International,97.1,regional
+Riviersonderend,-34.15,19.9,Cape Town International,121.7,regional
+Bredasdorp,-34.5333,20.0333,Cape Town International,146.1,regional
+Saldanha,-34.5333,20.0333,Cape Town International,146.1,regional
+Malmesbury,-33.45,18.7333,Cape Town International,59.2,regional
+Atlantis,-33.5667,18.4833,Cape Town International,46.1,major
+Moorreesburg,-33.15,18.6667,Cape Town International,91.4,regional
+Piketberg,-32.9,18.7667,Cape Town International,120.0,regional
+Citrusdal,-32.6,19.0167,Cape Town International,157.3,regional
+Darling,-26.9833,29.3167,O.R. Tambo International,142.5,regional
+Dassenberg,-33.0833,18.75,Cape Town International,99.6,regional
+Hopefield,-33.0667,18.35,Cape Town International,103.0,regional
+Langebaan,-33.1,18.0333,Cape Town International,109.9,regional
+Velddrif,-32.7833,18.1667,Cape Town International,137.9,regional
+Vredenburg,-32.9,17.9833,Cape Town International,131.9,regional
+Ysterplaat,-33.9,18.4833,Cape Town International,13.1,major
+Maitland,-33.9083,18.45,Cape Town International,15.2,major
+Paarden Island,-33.9083,18.45,Cape Town International,15.2,major
+Rugby,-33.9,18.4833,Cape Town International,13.1,major
+Milnerton,-33.9166,18.4166,Cape Town International,17.7,major
+Melkbosstrand,-33.7306,18.4361,Cape Town International,30.5,major
+Table View,-33.8167,18.4833,Cape Town International,20.0,major
+Bloubergrant,-33.8213,18.4454,Cape Town International,21.7,major
+Bloubergstrand,-33.8213,18.4454,Cape Town International,21.7,major
+Pinelands,-33.9167,18.5,Cape Town International,10.7,major
+Langa,-33.9333,18.5167,Cape Town International,8.5,major
+Monte Vista,-33.8833,18.5667,Cape Town International,10.0,major
+Goodwood,-33.9,18.55,Cape Town International,8.9,major
+Matroosfontein,-33.9333,18.5833,Cape Town International,4.3,major
+Lavistown,-33.9222,18.5222,Cape Town International,8.7,major
+Elsies River,-33.9222,18.5222,Cape Town International,8.7,major
+Elsiesrivier,-33.9167,18.5667,Cape Town International,6.6,major
+Ravensmead,-33.9167,18.6,Cape Town International,5.9,major
+Belhar,-33.9222,18.5333,Cape Town International,7.9,major
+Parow,-33.9,18.6,Cape Town International,7.8,major
+Bellville,-33.9,18.6333,Cape Town International,8.5,major
+Durbanville,-33.8333,18.65,Cape Town International,16.0,major
+Brackenfell,-33.8667,18.6833,Cape Town International,14.0,major
+Kraaifontein,-33.8481,18.7172,Cape Town International,17.5,major
+Kraaifontein North,-28.4278,26.8278,Bram Fischer (Bloemfontein),89.9,regional
+Kuilsrivier,-25.15,29.15,O.R. Tambo International,142.6,regional
+Kuilsriver,-31.3333,21.7667,George,302.6,regional
+Blackheath,-26.1333,27.9667,O.R. Tambo International,27.4,major
+Kuils River,-33.9333,18.6667,Cape Town International,7.6,major
+Stellenbosch,-33.9302,18.8449,Cape Town International,23.3,major
+Paarl,-33.7333,18.9667,Cape Town International,43.1,major
+Huguenot,-31.0833,26.6,Bram Fischer (Bloemfontein),223.2,regional
+Nederburg,-33.2033,20.4933,Cape Town International,195.2,regional
+Wellington,-33.6333,19.0,Cape Town International,52.8,regional
+Mbekweni,-33.6833,18.9833,Cape Town International,47.8,major
+Franschhoek,-33.9166,19.1166,Cape Town International,48.3,major
+Newlands,-33.9785,18.4481,Cape Town International,13.8,major
+Rondebosch,-33.9633,18.4764,Cape Town International,11.1,major
+Mowbray,-33.9333,18.4667,Cape Town International,12.7,major
+Lansdowne,-32.9389,19.6667,Cape Town International,151.6,regional
+Claremont,-33.9833,18.4667,Cape Town International,12.1,major
+Nuweland,-33.9667,18.4833,Cape Town International,10.5,major
+Nyanga,-33.9833,18.5833,Cape Town International,1.9,major
+Ottery,-33.9833,18.575,Cape Town International,2.5,major
+Guguletu,-33.9833,18.5667,Cape Town International,3.2,major
+Gugulethu,-33.9833,18.575,Cape Town International,2.5,major
+Khayalitsha,-33.9833,18.575,Cape Town International,2.5,major
+Gatesville,-33.9625,18.4917,Cape Town International,9.7,major
+Manenberg,-33.9833,18.55,Cape Town International,4.6,major
+Athlone,-33.9667,18.5,Cape Town International,9.0,major
+Elspark,-33.9778,18.5167,Cape Town International,7.5,major
+Crawford,-33.9833,18.5,Cape Town International,9.1,major
+Kenwyn,-33.9722,18.4667,Cape Town International,12.0,major
+Landsdowne,-33.9722,18.4667,Cape Town International,12.0,major
+Khayelitsha,-33.9167,18.4167,Cape Town International,17.7,major
+Mitchells Plain,-33.9167,18.4167,Cape Town International,17.7,major
+Mitchells Plein,-33.9611,18.4833,Cape Town International,10.5,major
+Mithchells Plain,-33.9611,18.4833,Cape Town International,10.5,major
+Mitchellsplain,-33.9611,18.4833,Cape Town International,10.5,major
+Strandfontein,-34.0833,18.55,Cape Town International,13.3,major
+Diep River,-34.0345,18.4651,Cape Town International,14.1,major
+Southfield,-34.0333,18.4833,Cape Town International,12.6,major
+Wynberg,-34.0,18.4667,Cape Town International,12.5,major
+Plumstead,-34.0167,18.4667,Cape Town International,13.1,major
+Grassy Park,-34.05,18.4833,Cape Town International,13.7,major
+Constantia,-34.0167,18.45,Cape Town International,14.5,major
+Houtbaai,-33.9166,18.4166,Cape Town International,17.7,major
+Hout Bay,-33.9166,18.4166,Cape Town International,17.7,major
+Woodstock,-33.9167,18.4333,Cape Town International,16.2,major
+Muizenberg,-34.1167,18.4667,Cape Town International,20.3,major
+Steenberg,-34.0667,18.4667,Cape Town International,16.1,major
+Retreat,-31.9167,26.9667,King Phalo (East London),148.2,regional
+Tokai,-34.0667,18.4333,Cape Town International,18.5,major
+Lavender Hill,-34.0667,18.4833,Cape Town International,15.0,major
+Heathfield,-34.05,18.4667,Cape Town International,14.9,major
+Bergvliet,-34.0475,18.4525,Cape Town International,15.9,major
+Lakeside,-34.0833,18.45,Cape Town International,18.5,major
+Vishoek,-34.0056,18.4222,Cape Town International,16.6,major
+Simonstad,-34.1833,18.4333,Cape Town International,28.1,major
+Fish Hoek,-34.0056,18.4222,Cape Town International,16.6,major
+Fishhoek,-34.0056,18.4222,Cape Town International,16.6,major
+Simon'S Town,-34.0056,18.4222,Cape Town International,16.6,major
+Clanwilliam,-32.1833,18.9,Cape Town International,200.7,regional
+Graafwater,-32.15,18.6,Cape Town International,202.4,regional
+Lambertsbaai,-32.1,18.3,Cape Town International,209.8,regional
+Klawer,-31.7833,18.6167,Cape Town International,243.2,regional
+Vredendal,-31.6667,18.5,Cape Town International,256.3,regional
+Lutzville,-31.55,18.35,Cape Town International,270.1,regional
+Vanrhynsdorp,-31.6167,18.7333,Cape Town International,262.0,regional
+Loeriesfontein,-30.9667,19.45,Upington,334.8,regional
+Calvinia,-31.4667,19.7833,Cape Town International,299.7,regional
+Bitterfontein,-31.0333,18.2667,Cape Town International,328.0,regional
+Garies,-30.55,17.9833,Cape Town International,384.6,regional
+Springbok,-29.6667,17.8833,Upington,357.3,regional
+Kotzeshoop,-28.7167,17.5833,Upington,360.8,regional
+Vioolsdrif,-28.7667,17.65,Upington,354.9,regional
+Kleinsee,-29.6667,17.0833,Upington,429.8,regional
+Kamieskroon,-30.2,17.9333,Upington,379.7,regional
+Okiep,-29.6,17.9,Upington,353.0,regional
+Port Nolloth,-29.25,16.8667,Upington,438.3,regional
+Alexander Bay,-28.5833,16.4833,Upington,467.3,regional
+Kimberley,-28.7333,24.7667,Kimberley,7.7,major
+Pescodia,-28.7333,24.7667,Kimberley,7.7,major
+Beaconsfield,-22.9333,30.1167,O.R. Tambo International,403.6,regional
+Galeshewe,-27.9796,25.1093,Kimberley,97.5,regional
+Boshof,-28.55,25.2333,Kimberley,53.6,regional
+Mankurwane,-28.55,25.2333,Kimberley,53.6,regional
+Griquatown,-28.85,23.25,Kimberley,147.7,regional
+Barkly West,-28.5333,24.5167,Kimberley,38.5,major
+Delportshoop,-28.4167,24.3,Kimberley,62.5,regional
+Danielskuil,-28.1833,23.5333,Kimberley,138.7,regional
+Postmasburg,-28.3167,23.0667,Kimberley,174.5,regional
+Mancorp Mine,-28.3,23.0167,Upington,172.2,regional
+Olifantshoek,-27.9333,22.7333,Upington,153.4,regional
+Kuruman,-27.45,23.4333,Kimberley,199.2,regional
+Hotazel,-27.2,22.9667,Upington,214.4,regional
+Vryburg,-26.95,24.7333,Kimberley,206.0,regional
+Mothibistad,-27.05,24.4733,Kimberley,197.0,regional
+Windsorton,-28.3333,24.7167,Kimberley,52.4,regional
+Warrenton,-28.1167,24.85,Kimberley,76.7,regional
+Jan Kempdorp,-27.9167,24.85,Kimberley,98.9,regional
+Taung Station,-28.0167,24.85,Kimberley,87.8,regional
+Hartswater,-27.7667,24.8167,Kimberley,115.3,regional
+Magogong,-27.6667,24.8333,Kimberley,126.5,regional
+Taung Sta,-27.7167,24.825,Kimberley,120.9,regional
+Taung,-24.4833,30.4167,O.R. Tambo International,285.7,regional
+Ganyesa,-26.6,24.1833,Kimberley,251.5,regional
+Pomfret,-26.95,24.7333,Kimberley,206.0,regional
+Ritchie,-29.05,24.6,Kimberley,31.8,major
+Jacobsdal,-25.6333,26.0667,O.R. Tambo International,224.6,regional
+Douglas,-29.0667,23.7667,Kimberley,101.5,regional
+Hopetown,-29.6167,24.0833,Kimberley,112.1,regional
+Strydenburg,-29.95,23.6833,Kimberley,165.1,regional
+Petrusville,-30.0833,24.65,Kimberley,142.8,regional
+Vanderkloof,-30.0,24.7333,Kimberley,133.2,regional
+Britstown,-30.5833,23.5,Kimberley,232.7,regional
+Philipstown,-30.4333,24.4667,Kimberley,183.6,regional
+Upington,-28.45,21.25,Upington,5.7,major
+Grootdrink,-26.4833,22.2333,Upington,233.7,regional
+Groblershoop,-28.8833,21.9833,Upington,88.8,regional
+Keimoes,-28.7,20.9667,Upington,44.1,major
+Kakamas,-28.75,20.6333,Upington,72.6,regional
+Pofadder,-29.1333,19.3833,Upington,200.3,regional
+Carnarvon,-30.95,22.1333,Upington,295.9,regional
+Prieska,-29.6667,22.75,Upington,202.1,regional
+Niekerkshoop,-29.3167,22.8333,Upington,184.1,regional
+Bloemfontein,-29.1333,26.2,Bram Fischer (Bloemfontein),10.9,major
+Mangaung,-29.1333,26.2,Bram Fischer (Bloemfontein),10.9,major
+Kagisanong,-29.1833,26.2333,Bram Fischer (Bloemfontein),12.1,major
+Ga-Sehunelo,-27.0333,23.5833,Kimberley,228.5,regional
+Gasehunelo,-28.0833,24.8917,Kimberley,81.0,regional
+Dealesville,-28.6667,25.7667,Bram Fischer (Bloemfontein),70.5,regional
+Bloemspruit,-29.1333,26.25,Bram Fischer (Bloemfontein),6.8,major
+Brandfort,-28.7,26.4667,Bram Fischer (Bloemfontein),46.5,major
+Theunissen,-28.4,26.7167,Bram Fischer (Bloemfontein),87.0,regional
+Winburg,-28.5333,27.0167,Bram Fischer (Bloemfontein),93.3,regional
+Virginia,-28.1167,26.9,Bram Fischer (Bloemfontein),123.2,regional
+Free State,-28.1167,26.9,Bram Fischer (Bloemfontein),123.2,regional
+Welkom,-27.9833,26.7333,Bram Fischer (Bloemfontein),130.3,regional
+Ventersburg,-28.0833,27.1333,Bram Fischer (Bloemfontein),138.5,regional
+Motsethabong,-27.9833,26.7333,Bram Fischer (Bloemfontein),130.3,regional
+Geduldpan,-27.9833,26.7333,Bram Fischer (Bloemfontein),130.3,regional
+Odendaalsrus,-27.8667,26.6833,Bram Fischer (Bloemfontein),141.3,regional
+Hertzogville,-28.1333,25.5,Kimberley,103.4,regional
+Merafong,-28.0778,26.3778,Bram Fischer (Bloemfontein),113.1,regional
+Senekal,-28.3167,27.6,Bram Fischer (Bloemfontein),153.2,regional
+Motsethabang,-28.0778,26.3778,Bram Fischer (Bloemfontein),113.1,regional
+Allanridge,-27.75,26.6667,Bram Fischer (Bloemfontein),153.5,regional
+Kroonstad,-27.65,27.2333,Bram Fischer (Bloemfontein),184.5,regional
+Lengau,-27.65,27.2333,Bram Fischer (Bloemfontein),184.5,regional
+Viljoenskroon,-27.2167,26.95,O.R. Tambo International,175.7,regional
+Edenville,-29.2667,21.6333,Upington,103.1,regional
+Koppies,-27.2333,27.5833,O.R. Tambo International,138.3,regional
+Parys,-26.9,27.45,O.R. Tambo International,115.7,regional
+Vredefort,-27.0167,27.3833,O.R. Tambo International,129.8,regional
+Arlington,-28.0333,27.85,Bram Fischer (Bloemfontein),191.6,regional
+Marquard,-28.6667,27.4333,Bram Fischer (Bloemfontein),119.9,regional
+Lindley,-27.8667,27.9167,O.R. Tambo International,195.0,regional
+Petrus Steyn,-27.65,28.1333,O.R. Tambo International,168.6,regional
+Heilbron,-27.2833,27.9667,O.R. Tambo International,130.4,regional
+Bothaville,-27.3667,26.6167,Bram Fischer (Bloemfontein),194.4,regional
+Bultfontein,-25.1167,28.5667,O.R. Tambo International,118.0,regional
+Wesselsbron,-27.85,26.3667,Bram Fischer (Bloemfontein),138.3,regional
+Bethlehem,-28.2333,28.3,Bram Fischer (Bloemfontein),217.1,regional
+Theronville,-28.2333,28.3,Bram Fischer (Bloemfontein),217.1,regional
+Bohlokong,-28.2333,28.3,Bram Fischer (Bloemfontein),217.1,regional
+Clarens,-28.5167,28.4167,Bram Fischer (Bloemfontein),215.7,regional
+Rosendal,-28.5167,27.9333,Bram Fischer (Bloemfontein),171.3,regional
+Fouriesburg,-28.5833,28.1333,Bram Fischer (Bloemfontein),187.1,regional
+Ficksburg,-28.8833,27.8833,Bram Fischer (Bloemfontein),155.5,regional
+Clocolan,-28.9,27.5667,Bram Fischer (Bloemfontein),124.8,regional
+Hobhouse,-29.5333,27.15,Bram Fischer (Bloemfontein),95.7,regional
+Jamestown,-31.1167,26.8,Bram Fischer (Bloemfontein),230.1,regional
+Burgersdorp,-30.9833,26.3167,Bram Fischer (Bloemfontein),210.2,regional
+Ladybrand,-29.2,27.45,Bram Fischer (Bloemfontein),112.1,regional
+Aliwal-Noord,-30.7,26.7,Bram Fischer (Bloemfontein),182.8,regional
+Aliwal North,-30.7,26.7,Bram Fischer (Bloemfontein),182.8,regional
+Lady Grey,-30.7,27.2333,Bram Fischer (Bloemfontein),200.0,regional
+Herschel,-30.6167,27.1667,Bram Fischer (Bloemfontein),188.8,regional
+Excelsior,-25.8333,30.5167,O.R. Tambo International,230.0,regional
+Sterkspruit,-25.3667,30.5333,O.R. Tambo International,245.0,regional
+Ga-Rapulana,-29.3154,27.4386,Bram Fischer (Bloemfontein),113.0,regional
+Garapulana,-29.3154,27.4386,Bram Fischer (Bloemfontein),113.0,regional
+Botshabelo,-29.2333,26.7333,Bram Fischer (Bloemfontein),44.7,major
+Thaba Nchu,-29.2167,26.8333,Bram Fischer (Bloemfontein),53.4,regional
+Selosesha,-29.2,26.8167,Bram Fischer (Bloemfontein),51.4,regional
+Barkly East,-30.9667,27.6,King Phalo (East London),231.0,regional
+Colesberg,-30.7333,25.1,Bram Fischer (Bloemfontein),216.1,regional
+Venterstad,-30.7833,25.8,Bram Fischer (Bloemfontein),194.1,regional
+Paul Roux,-28.3,27.95,Bram Fischer (Bloemfontein),183.3,regional
+Reitz,-27.8,28.4333,O.R. Tambo International,185.9,regional
+Tweeling,-27.55,28.5167,O.R. Tambo International,159.5,regional
+Frankfort,-27.2833,28.5,O.R. Tambo International,130.1,regional
+Vrede,-27.4167,29.1667,O.R. Tambo International,169.4,regional
+Villiers,-27.0333,28.6,O.R. Tambo International,105.9,regional
+Cornelia,-23.7167,29.1333,O.R. Tambo International,283.7,regional
+Kestell,-28.3167,28.7,O.R. Tambo International,246.6,regional
+Phuthaditjhaba,-28.5333,28.8167,Bram Fischer (Bloemfontein),252.7,regional
+Witsieshoek,-28.5333,28.8,Bram Fischer (Bloemfontein),251.2,regional
+Mokodumela,-28.5333,28.8,Bram Fischer (Bloemfontein),251.2,regional
+Dikgakeng,-28.5333,28.8,Bram Fischer (Bloemfontein),251.2,regional
+Warden,-27.85,28.9667,O.R. Tambo International,203.6,regional
+Reddersburg,-29.65,26.1667,Bram Fischer (Bloemfontein),63.3,regional
+Edenburg,-29.7333,25.9333,Bram Fischer (Bloemfontein),79.7,regional
+Trompsburg,-30.0333,25.7833,Bram Fischer (Bloemfontein),116.0,regional
+Springfontein,-30.2667,25.7,Bram Fischer (Bloemfontein),142.9,regional
+Petrusburg,-29.1167,25.4167,Kimberley,72.4,regional
+Dewetsdorp,-29.5833,26.6667,Bram Fischer (Bloemfontein),65.0,regional
+Wepener,-29.7333,27.0333,Bram Fischer (Bloemfontein),100.4,regional
+Zastron,-30.3,27.0833,Bram Fischer (Bloemfontein),154.0,regional
+Rouxville,-30.4167,26.8333,Bram Fischer (Bloemfontein),155.9,regional
+Smithfield,-30.2167,26.5333,Bram Fischer (Bloemfontein),127.0,regional
+Philippolis,-30.2667,25.2833,Bram Fischer (Bloemfontein),163.5,regional
+Jagersfontein,-29.7667,25.4167,Bram Fischer (Bloemfontein),113.9,regional
+Fauresmith,-29.75,25.3167,Kimberley,118.1,regional
+Luckhoff,-29.75,24.7833,Kimberley,105.3,regional
+Koffiefontein,-29.4,25.0167,Kimberley,70.8,regional
+Bethulie,-30.5333,21.2833,Upington,237.3,regional

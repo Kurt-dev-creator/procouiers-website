@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Professional Couriers">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f8cff" />
+      <stop offset="1" stop-color="#7c4dff" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0b1220" />
+  <path d="M12 24h28c6 0 10 4 10 10s-4 10-10 10H12z" fill="url(#g)" />
+  <path d="M12 18h24c6 0 10 3.5 10 9s-4 9-10 9H12z" fill="#0f1830" />
+  <circle cx="20" cy="42" r="4" fill="#e6edf7" />
+  <circle cx="36" cy="42" r="4" fill="#e6edf7" />
+</svg>
